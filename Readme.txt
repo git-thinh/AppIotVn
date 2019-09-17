@@ -13,11 +13,21 @@ adb devices
 react-native run-android
 
 ===================================================================
+npm install --save react-native-device-info
+npm install --save react-native-webview
+npm install --save lodash
+npm install --save react-native-elements
+npm install --save react-native-fs
+npm install --save react-native-vector-icons
+npm install --save react-native-camera
 
-
-
+npm install --save react-native-swiper
+npm install --save react-native-drawer
+npm install --save react-native-scrollable-tab-view
 ===================================================================
-
+npm install --save react-native-firebase
+npm install --save react-native-code-push
+===================================================================
 
 
 
@@ -25,18 +35,13 @@ npm install --save base-64
 npm install --save crypto-js
 npm install --save utf8
 
-npm install --save lodash
-	
-npm install --save react-native-elements
-npm install --save react-native-webview
-npm install --save react-native-swiper
-npm install --save react-native-device-info
 
-===================================================================
-npm install --save react-native-fs
-npm install --save react-native-firebase
-npm install --save react-native-camera
-npm install --save react-native-code-push
+	
+
+
+
+
+
 ===================================================================
 # https://github.com/oblador/react-native-vector-icons
 npm install --save react-native-vector-icons
